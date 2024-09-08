@@ -12,10 +12,7 @@ Welcome to **PlacementPrep**, your ultimate guide for acing on-campus and off-ca
 - [Step 4: Web Development](#-step-4-web-development)
 - [Step 5: Core Subjects for Interview Prep](#-step-5-core-subjects-for-interview-prep)
 - [Roadmap Based on Current Year](#-roadmap-based-on-current-year)
-- [Resources for Service-Based Companies](#-resources-for-service-based-companies)
-  - [Aptitude and Reasoning](#aptitude-and-reasoning)
-  - [Basic Programming](#basic-programming)
-  - [Core Subjects](#core-subjects)
+- [Aptitude and Reasoning](#aptitude-and-reasoning)
 
 ---
 
@@ -85,16 +82,12 @@ Welcome to **PlacementPrep**, your ultimate guide for acing on-campus and off-ca
 
 ---
 
-## 💼 Resources for Service-Based Companies
-### Aptitude and Reasoning
-*Coming soon...*
-
-### Basic Programming
-*Coming soon...*
-
-### Core Subjects
-*Coming soon...*
-
+## 💼 Aptitude and Reasoning
+- Quantitative Aptitude: [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt)
+- Reasoning Ability: [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVC2wRtQXK8Gdt1VFjeVY4ea)
+- Practice Platform: [IndiaBIX](https://www.indiabix.com/)
+- Numerical Ability One Shot: [TCS NQT Numerical Ability](https://youtu.be/S-Ji7aayH3A?si=7CHVBw81G2_BUQ_B)
+- One Shot: [Complete TCS NQT Prep.](https://youtu.be/xMjf7pHPlCg?si=GhvYzTzhGOG9Ai71)
 ---
 
 *Good luck with your placement preparation! 🚀*
