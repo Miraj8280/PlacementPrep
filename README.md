@@ -87,7 +87,7 @@ Welcome to **PlacementPrep**, your ultimate guide for acing on-campus and off-ca
 - Reasoning Ability: [CareerRide](https://www.youtube.com/playlist?list=PLpyc33gOcbVC2wRtQXK8Gdt1VFjeVY4ea)
 - Practice Platform: [IndiaBIX](https://www.indiabix.com/)
 - Numerical Ability One Shot: [TCS NQT Numerical Ability](https://youtu.be/S-Ji7aayH3A?si=7CHVBw81G2_BUQ_B)
-- One Shot: [Complete TCS NQT Prep.](https://youtu.be/xMjf7pHPlCg?si=GhvYzTzhGOG9Ai71)
+- Apptitude & Reasoning One Shot: [Complete TCS NQT Prep.](https://youtu.be/xMjf7pHPlCg?si=GhvYzTzhGOG9Ai71)
 ---
 
 *Good luck with your placement preparation! 🚀*
