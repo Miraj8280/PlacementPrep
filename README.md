@@ -12,7 +12,7 @@ Welcome to **PlacementPrep**, your ultimate guide for acing on-campus and off-ca
 - [Step 4: Web Development](#-step-4-web-development)
 - [Step 5: Core Subjects for Interview Prep](#-step-5-core-subjects-for-interview-prep)
 - [Roadmap Based on Current Year](#-roadmap-based-on-current-year)
-- [Aptitude and Reasoning](#aptitude-and-reasoning)
+- [Aptitude and Reasoning](#-aptitude-and-reasoning)
 
 ---
 
